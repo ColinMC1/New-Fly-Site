@@ -270,7 +270,7 @@ CHAKRA.menu = function(){
     	scrollOffset: 30,
     	scrollThreshold: 0.5,
 		easing: 'easeOutExpo',
-		filter: ':not(.external)'
+		// filter: ':not(.external)'
 	});
 }
 
