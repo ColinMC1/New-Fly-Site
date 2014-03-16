@@ -89,6 +89,8 @@ Enter Here your Custom CSS Style!!
 	padding: 0px 20px 0px 20px;
 }
 
+
+
 #home-slider img{
 	width: 200px;
 	opacity: .8;
@@ -113,10 +115,8 @@ nav#menu #menu-nav li a {
 }
 
 .work-nav #filters li a {
-	color: #30b9d2;
 	font-weight: bold;
-}
-
-.portfolio-all {
-	text-align: left;
+	background-color: #30b9d2;
+	color: #fff !important;
+	padding: 0px 20px 0px 20px;
 }
