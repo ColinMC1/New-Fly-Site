@@ -17,10 +17,6 @@ Enter Here your Custom CSS Style!!
 	padding: 5px;
 }
 
-#faq {
-	background-color: #30b9d2;
-}
-
 .profile-name {
 	text-align: center;
 }
@@ -58,6 +54,7 @@ Enter Here your Custom CSS Style!!
 .class-packages {
 	padding-top: 20px;
 	padding-bottom: 20px;
+	text-align: center;
 }
 
 #faqArea .fa-question {
@@ -79,16 +76,11 @@ Enter Here your Custom CSS Style!!
 	text-align: left;
 }
 
-.accordion a:hover {
-	background-color: #fff;
-}
-
 #login-button {
 	background-color: #30b9d2;
 	color: #fff !important;
 	padding: 0px 20px 0px 20px;
 }
-
 
 
 #home-slider img{
@@ -119,4 +111,9 @@ nav#menu #menu-nav li a {
 	background-color: #30b9d2;
 	color: #fff !important;
 	padding: 0px 20px 0px 20px;
+}
+
+.bottom_gap {
+	height: 100px;
+	background-color: #fff;
 }
